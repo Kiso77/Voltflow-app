@@ -1,4 +1,4 @@
- # VoltFlow - Electrical House Wiring Booking App
+# VoltFlow - Electrical House Wiring Booking App
 
 A native Android app (Kotlin, Jetpack Compose, Material 3) where customers browse home wiring services and book an electrician visit.
 
